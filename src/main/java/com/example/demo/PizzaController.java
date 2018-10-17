@@ -12,6 +12,6 @@ public class PizzaController{
     
     @RequestMapping("/pizzas")
     public String getPizzas() {
-        return "Pizza's are very good";
+        return "Pizza's are very good!!";
     }
 }
